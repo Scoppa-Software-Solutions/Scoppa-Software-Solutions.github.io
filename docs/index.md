@@ -14,7 +14,7 @@ Over the years he has held many positions in software engineering from being a h
 
 Prior to founding Scoppa Sofware Solutions, LLC he established and managed _UCI Software Consulting and Training_, where he partenered with Microsoft to develop and teach Microsoft Official Curriculum.  
 
-## Announcements
+# Announcements
 
 Mr. Scoppa's [GO Language Essentials](https://www.itcourseware.com/programming/go-golang.html) course is now available directly from ITCourseware.
 
