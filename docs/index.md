@@ -18,3 +18,4 @@ Prior to founding Scoppa Sofware Solutions, LLC he established and managed _UCI 
 
 Mr. Scoppa's [GO Language Essentials](https://www.itcourseware.com/programming/go-golang.html) course is now available directly from ITCourseware.
 
+
